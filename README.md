@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itsmedeejey
-- 👀 I’m interested in ethical hacking
-- 🌱 I’m currently learning kali linux, and some programing language
-- 📫 How to reach me -> instagram @its_me_deejey
+- 👀 I’m interested in building stuff that makes life easy
+- 🌱 I’m currently learning kali linux, html, css, php, java, c++ 
+- 📫 How to reach me -> instagram @itsmedeejey_
 email = dhanjyotidas00@gmail.com
 
 <!---
