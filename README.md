@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @itsmedeejey
+- 👋 Hi, I’m DEEJEY
 - 👀 I’m interested in building stuff that makes life easy
-- 🌱 I’m currently learning kali linux, html, css, c, java, c++ 
+- 🌱 I’m currently learning linux, html, css, JavaScript, c
 - 📫 How to reach me -> instagram @itsmedeejey_
 email = dhanjyotidas00@gmail.com
 
