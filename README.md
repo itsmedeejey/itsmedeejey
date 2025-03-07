@@ -1,5 +1,5 @@
 
--linkedin: https://www.linkedin.com/in/dhanjyoti-das-aa770b255/
+- **linkedin**: https://www.linkedin.com/in/dhanjyoti-das-aa770b255/
 - **email** = dhanjyotidas00@gmail.com
 
 <!---
